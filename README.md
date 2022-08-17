@@ -10,7 +10,7 @@ Monterey install with Ryzen 5 1600 CPU and AB350 Gigabyte motherboard.
 |:----------------:|----------------------------------------|
 |     **CPU**      | [ AMD Ryzen 5 1600 ]                     |
 | **Motherboard**  | [ Ga-Ab350m-Ds3h V2H ]    |
-|     **RAM**      | [  16GB 2X 2400Mhz ]   |
+|     **RAM**      | [  2x 8GB 2400Mhz ]   |
 |     **GPU**      | [  AMD RX570 ] |
 |     **SSD**      | [ Kingston A400 ]  |
 | **Power Supply** | [ Corsair CX450  ]  |
